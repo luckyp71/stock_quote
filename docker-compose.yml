@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  stock_quote:
+   image: stock_quote:dev
+   build: .
+   

@@ -1,0 +1,9 @@
+//Retrieve stock quote by stock symbol.
+//The value is case insensitive. For example, the stock symbol with value AAPL and aapl will be treated as the same value
+get quote {stock_symbol} --> example: get quote aapl
+
+//Retrieve stock symbols
+get symbols
+
+//Exit program
+exit
