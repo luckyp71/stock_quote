@@ -1,7 +1,6 @@
 <h1>Stock Quote</h1>
 
 <p>This project is a REST Consumer which consume stock data from<a href="https://iextrading.com"> IEX API</a> using java.</p>
-<p>The displayed stock quote data in this app are in one month timeframe.</p>
 
 <h2>Prerequisites</h2>
 <p>1. Java 8</p>

@@ -1,5 +1,5 @@
 FROM java:8
-MAINTAINER Lucky Pratama
+LABEL maintainer="luckypratama71@yahoo.com"
 
 ADD /target/stock_quote-0.0.1-SNAPSHOT-jar-with-dependencies.jar /stock_quote.jar
 
