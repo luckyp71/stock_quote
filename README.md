@@ -1,7 +1,7 @@
 <h1>Stock Quote</h1>
 
 <p>This project is a REST Consumer which consume stock data from<a href="https://iextrading.com"> IEX API</a> using java.</p>
-<p>To pull the image from <a href="https://hub.docker.com/r/luckyp71/stock_quote/">docker hub</a> just simply run <strong>docker pull luckyp71/stock_quote</strong> command</p>
+<p>To pull the image from <a href="https://hub.docker.com/r/luckyp71/stock_quote/">docker hub</a> just simply run <strong>docker pull luckyp71/stock_quote</strong> command.</p>
 
 <h2>Prerequisites</h2>
 <p>1. Java 8</p>
